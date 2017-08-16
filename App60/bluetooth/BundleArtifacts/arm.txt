@@ -1,0 +1,2 @@
+MainPackage=C:\win10 CSharp\App6 - 测试版\bluetooth\bin\ARM\Debug\bluetooth_1.0.163.0_ARM_Debug.appx
+SymbolPackage=C:\win10 CSharp\App6 - 测试版\bluetooth\AppPackages\bluetooth_1.0.163.0_Debug_Test\bluetooth_1.0.163.0_ARM_Debug.appxsym
